@@ -9,8 +9,10 @@ The main difference is that signs such as @ and # are accessed using AltGr.
 
 ## Installation
 
-- Place the `Belgian (Non-Apple).keylayout` file in `/Library/Keyboard Layouts`
-  or `/Users/<username>/Library/Keyboard Layouts` 
+- Place the `Belgian (Non-Apple).keylayout` file (
+	or `Belgian (IBM).keylayout` if you have an IBM-compatible keyboard)
+	in `/Library/Keyboard Layouts`
+	or `/Users/<username>/Library/Keyboard Layouts` 
 - Log out and back in
 - From the *Input Menu* *International* preference pane, select 
 	the layout called *Belgian (Non-Apple)*
@@ -24,3 +26,7 @@ out of the System library and put it where Mac OS can't find it.
 ## TODO
 
 - Make some kind of icon for it, preferably different than the default Belgian flag from Mac OS X.
+
+## Acknowledgements
+
+Thanks to Daniel Szmulewicz for providing the IBM keyboard layout.
