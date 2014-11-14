@@ -1,4 +1,4 @@
-# [Belgian (Non-Apple) Keyboard Layout](http://el-tramo.be/software/be-non-apple)
+# [Belgian (Non-Apple) Keyboard Layout](https://el-tramo.be/be-non-apple)
 
 ## About
 
