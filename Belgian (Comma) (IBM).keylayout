@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Sat, 1 Jan 200 Generated from KCHR: "Belgian" -->
 <!--Created by Ukelele version 1.6.1 on 2005-08-20 at 00:31 (CEST)-->
-<!--Last edited by Ukelele version 2.2.4 on 2013-05-03 at 03:56 (GMT+03:00)-->
-<keyboard group="0" id="5" name="Belgian (IBM)" maxout="1">
+<!--Last edited by Ukelele version 343 on 2021-04-19 at 17:14 (CEST)-->
+<keyboard group="0" id="5" name="Belgian (Comma) (IBM)" maxout="1">
     <layouts>
-        <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
+        <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
     </layouts>
     <modifierMap id="commonModifiers" defaultIndex="0">
         <keyMapSelect mapIndex="0">
@@ -1044,12 +1044,6 @@
             <when state="4" output="~"/>
             <when state="5" output="´"/>
         </action>
-        <action id="¨">
-            <when state="none" next="3"/>
-        </action>
-        <action id="´">
-            <when state="none" next="5"/>
-        </action>
         <action id="A">
             <when state="none" output="A"/>
             <when state="1" output="Â"/>
@@ -1148,6 +1142,12 @@
         </action>
         <action id="~">
             <when state="none" next="4"/>
+        </action>
+        <action id="¨">
+            <when state="none" next="3"/>
+        </action>
+        <action id="´">
+            <when state="none" next="5"/>
         </action>
     </actions>
     <terminators>

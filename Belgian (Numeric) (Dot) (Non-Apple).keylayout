@@ -2,8 +2,8 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Sat, 1 Jan 200 Generated from KCHR: "Belgian" -->
 <!--Created by Ukelele version 1.6.1 on 2005-08-20 at 00:31 (CEST)-->
-<!--Last edited by Ukelele version 343 on 2021-04-19 at 17:03 (CEST)-->
-<keyboard group="0" id="5" name="Belgian (Non-Apple)" maxout="1">
+<!--Last edited by Ukelele version 343 on 2021-04-19 at 17:22 (CEST)-->
+<keyboard group="0" id="5" name="Belgian (Numeric) (Dot) (Non-Apple)" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
     </layouts>
